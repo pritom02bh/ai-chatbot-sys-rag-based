@@ -1,0 +1,14 @@
+openai
+faiss-cpu
+flask
+pymongo
+sentence-transformers
+flask-cors
+langchain_community
+tiktoken
+langchain-openai
+langchainhub
+chromadb
+langchain
+langsmith
+python-dotenv
